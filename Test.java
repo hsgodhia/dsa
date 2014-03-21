@@ -1,0 +1,8 @@
+public class Test
+{
+    static
+    {
+      System.out.println("All the computations, can be added here, without the need of a main");
+      System.exit(0);
+    }
+}
